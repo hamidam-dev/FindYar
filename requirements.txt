@@ -1,0 +1,6 @@
+aiohttp>=3.9
+beautifulsoup4>=4.12
+python-telegram-bot>=21
+lxml>=5
+tenacity>=8.2
+python-dotenv>=1.0
